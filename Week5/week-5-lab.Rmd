@@ -24,7 +24,7 @@ First, let's load the dataset and prepare it for analysis.
 library(dplyr)
 
 # Read the dataset
-ckd_data <- read.csv("Documents/Chronic_Kidney_Dsease_data.csv")
+ckd_data <- read.csv("../Chronic_Kidney_Dsease_data.csv")
 
 # Display the first few rows and summary
 # head(ckd_data)
